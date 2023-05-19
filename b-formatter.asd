@@ -1,8 +1,8 @@
 ;;;; b-formatter.asd
 
-(in-package #:asdf)
+(in-package :asdf)
 
-(defsystem #:b-formatter
+(defsystem :b-formatter
   :serial t
   :name "b-formatter"
   :version "0.0.1"
